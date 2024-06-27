@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 13dc6cb4f6572b14284cc7cd239724c5
+timeCreated: 1569954731
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Clif
+    100002: Door
+    100004: Door_box
+    100006: DoorBox02
+    100008: Karkas
+    100010: Krilco
+    100012: Lesnica
+    100014: Potolok
+    100016: Potolok_interior
+    100018: Roof
+    100020: Stolby
+    100022: //RootNode
+    100024: Wall_exterior
+    100026: Wall_interior
+    100028: Window_01
+    400000: Clif
+    400002: Door
+    400004: Door_box
+    400006: DoorBox02
+    400008: Karkas
+    400010: Krilco
+    400012: Lesnica
+    400014: Potolok
+    400016: Potolok_interior
+    400018: Roof
+    400020: Stolby
+    400022: //RootNode
+    400024: Wall_exterior
+    400026: Wall_interior
+    400028: Window_01
+    2300000: Clif
+    2300002: Door
+    2300004: Door_box
+    2300006: DoorBox02
+    2300008: Karkas
+    2300010: Krilco
+    2300012: Lesnica
+    2300014: Potolok
+    2300016: Potolok_interior
+    2300018: Roof
+    2300020: Stolby
+    2300022: Wall_exterior
+    2300024: Wall_interior
+    2300026: Window_01
+    3300000: Clif
+    3300002: Door
+    3300004: Door_box
+    3300006: DoorBox02
+    3300008: Karkas
+    3300010: Krilco
+    3300012: Lesnica
+    3300014: Potolok
+    3300016: Potolok_interior
+    3300018: Roof
+    3300020: Stolby
+    3300022: Wall_exterior
+    3300024: Wall_interior
+    3300026: Window_01
+    4300000: Potolok_interior
+    4300002: Stolby
+    4300004: Karkas
+    4300006: Clif
+    4300008: Krilco
+    4300010: Wall_interior
+    4300012: DoorBox02
+    4300014: Wall_exterior
+    4300016: Door_box
+    4300018: Window_01
+    4300020: Door
+    4300022: Lesnica
+    4300024: Potolok
+    4300026: Roof
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

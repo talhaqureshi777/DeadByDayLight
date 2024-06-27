@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: c5b22482012589d4983d23193dce993b
+timeCreated: 1570043285
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Allarm
+    100002: decal_3D
+    100004: doorbox
+    100006: frontony
+    100008: Fundament
+    100010: interior
+    100012: krilco
+    100014: //RootNode
+    100016: pechka
+    100018: Plane004
+    100020: roof
+    100022: Srub
+    100024: windows
+    100026: windows_decor
+    400000: Allarm
+    400002: decal_3D
+    400004: doorbox
+    400006: frontony
+    400008: Fundament
+    400010: interior
+    400012: krilco
+    400014: //RootNode
+    400016: pechka
+    400018: Plane004
+    400020: roof
+    400022: Srub
+    400024: windows
+    400026: windows_decor
+    2300000: Allarm
+    2300002: decal_3D
+    2300004: doorbox
+    2300006: frontony
+    2300008: Fundament
+    2300010: interior
+    2300012: krilco
+    2300014: pechka
+    2300016: Plane004
+    2300018: roof
+    2300020: Srub
+    2300022: windows
+    2300024: windows_decor
+    3300000: Allarm
+    3300002: decal_3D
+    3300004: doorbox
+    3300006: frontony
+    3300008: Fundament
+    3300010: interior
+    3300012: krilco
+    3300014: pechka
+    3300016: Plane004
+    3300018: roof
+    3300020: Srub
+    3300022: windows
+    3300024: windows_decor
+    4300000: roof
+    4300002: krilco
+    4300004: Srub
+    4300006: Fundament
+    4300008: pechka
+    4300010: interior
+    4300012: doorbox
+    4300014: frontony
+    4300016: windows
+    4300018: Allarm
+    4300020: windows_decor
+    4300022: Plane004
+    4300024: decal_3D
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 1e6057aa48aa26c429cf85d601ea3bcb
+timeCreated: 1509413747
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Book_01
+    100002: Book_02
+    100004: Book_03
+    100006: Book_04
+    100008: Book_05
+    100010: Books_01
+    100012: Books_02
+    100014: //RootNode
+    100016: newspaper heap_01
+    100018: newspaper heap_02
+    100020: newspaper heap_03
+    100022: newspaper_one_01
+    100024: newspaper_one_02
+    100026: newspaper_one_03
+    100028: newspaper_one_04
+    100030: newspaper_one_05
+    100032: newspaper_one_06
+    100034: newspaper_one_07
+    100036: newspaper_one_08
+    400000: Book_01
+    400002: Book_02
+    400004: Book_03
+    400006: Book_04
+    400008: Book_05
+    400010: Books_01
+    400012: Books_02
+    400014: //RootNode
+    400016: newspaper heap_01
+    400018: newspaper heap_02
+    400020: newspaper heap_03
+    400022: newspaper_one_01
+    400024: newspaper_one_02
+    400026: newspaper_one_03
+    400028: newspaper_one_04
+    400030: newspaper_one_05
+    400032: newspaper_one_06
+    400034: newspaper_one_07
+    400036: newspaper_one_08
+    2300000: Book_01
+    2300002: Book_02
+    2300004: Book_03
+    2300006: Book_04
+    2300008: Book_05
+    2300010: Books_01
+    2300012: Books_02
+    2300014: newspaper heap_01
+    2300016: newspaper heap_02
+    2300018: newspaper heap_03
+    2300020: newspaper_one_01
+    2300022: newspaper_one_02
+    2300024: newspaper_one_03
+    2300026: newspaper_one_04
+    2300028: newspaper_one_05
+    2300030: newspaper_one_06
+    2300032: newspaper_one_07
+    2300034: newspaper_one_08
+    3300000: Book_01
+    3300002: Book_02
+    3300004: Book_03
+    3300006: Book_04
+    3300008: Book_05
+    3300010: Books_01
+    3300012: Books_02
+    3300014: newspaper heap_01
+    3300016: newspaper heap_02
+    3300018: newspaper heap_03
+    3300020: newspaper_one_01
+    3300022: newspaper_one_02
+    3300024: newspaper_one_03
+    3300026: newspaper_one_04
+    3300028: newspaper_one_05
+    3300030: newspaper_one_06
+    3300032: newspaper_one_07
+    3300034: newspaper_one_08
+    4300000: newspaper heap_01
+    4300002: newspaper heap_02
+    4300004: newspaper_one_08
+    4300006: newspaper_one_01
+    4300008: newspaper_one_02
+    4300010: newspaper_one_03
+    4300012: newspaper_one_04
+    4300014: newspaper_one_05
+    4300016: newspaper_one_06
+    4300018: newspaper_one_07
+    4300020: newspaper heap_03
+    4300022: Book_01
+    4300024: Book_02
+    4300026: Book_03
+    4300028: Book_04
+    4300030: Book_05
+    4300032: Books_01
+    4300034: Books_02
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
